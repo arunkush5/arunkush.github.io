@@ -1,0 +1,22 @@
+/* Customize header background and text color */
+.md-header {
+    background-color: #3f51b5;
+    color: #fff;
+  }
+  
+  /* Style links */
+  a {
+    color: #ff5722;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #f44336;
+    text-decoration: underline;
+  }
+  
+  /* Customize the font for the site */
+  body {
+    font-family: 'Arial', sans-serif;
+  }
+  
